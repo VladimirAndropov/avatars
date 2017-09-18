@@ -1,11 +1,13 @@
-Some avatars
+Эксперименты с Blender
 ==========
 
 ![Belonojkin avatar](https://raw.githubusercontent.com/VladimirAndropov/avatars/master/belonojkin.jpg)
 
-## Belonojkin in other formats: dae, fbx, mhx2
+## Какой-то старый дядька
 
-for include in Unity, blender or some other tools for fun
+Форматы экспора: dae, fbx, mhx2
+
+Сделан на скорую руку для последующих экспериментов с Unity и babylon.js
 
 
 
